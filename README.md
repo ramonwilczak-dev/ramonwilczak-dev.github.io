@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR" class="dark scroll-smooth">
 <head>
     <meta charset="UTF-8">
